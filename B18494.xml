@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cargo's of seven East-India ships. Viz. The loyal merchant from Surrat. July 1664 ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18494</idno><idno type="EEBO-CITATION">99888712</idno>
+  <idno type="VID">195923</idno>
+  <idno type="EEBO-PROQUEST">2240903394</idno>
+  
+            <idno type="STC">Wing C571</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[118]</idno>
+            <idno type="STC">ESTC R231659</idno>
+            <idno type="PROQUEST">ocm99888712</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888712e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195923)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[119])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cargo's of seven East-India ships. Viz. The loyal merchant from Surrat. July 1664 ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l.:</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With lists from five other ships.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ships --  Great Britain --  Cargo --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="inventory">
+            <pb facs="tcp:195923:1"/>
+            <pb facs="tcp:195923:1"/>
+            <head>The Cargo's of Seven <hi>East-India</hi> Ships. <hi>Viz.</hi>
+            </head>
+            <list>
+               <head>The Loyal Merchant from <hi>Surrat.</hi> July <hi>1664.</hi>
+               </head>
+               <item>60 bales Saltpeeter</item>
+               <item>90 bales Coho seed</item>
+               <item>46 parcels Aloes succorrina</item>
+               <item>19 parcels Aloes Epatica</item>
+               <item>133 bales Cowries</item>
+               <item>21 bales Turmerick</item>
+               <item>27 bales Mirrh</item>
+               <item>335 bales Sticklack</item>
+               <item>103 bales Seedlack</item>
+               <item>11 bales Sena</item>
+               <item>173 bales Corton yarn</item>
+               <item>35 bales Shellack</item>
+               <item>18 bales Spicknard</item>
+               <item>32 bales Camphire</item>
+               <item>47 bales broad baftaes</item>
+               <item>53 bales Narrow ditto</item>
+               <item>16 bales Dungarees</item>
+               <item>66 bales Derebands</item>
+               <item>24 bales Mercollees</item>
+               <item>10 bales Ezkbarees</item>
+               <item>23 bales Sallowes</item>
+               <item>20 bales Tapseiles broad</item>
+               <item>57 bales ditto narrow</item>
+               <item>16 bales Suffaguzzees</item>
+               <item>17 bales narrow Chints</item>
+               <item>187090 l. Pepper</item>
+            </list>
+            <list>
+               <head>The <hi>Affrican</hi> from <hi>Surrat, July,</hi> 1664.</head>
+               <item>44 bales Coho seed</item>
+               <item>17 bales Aloes succotrina</item>
+               <item>14 bales Aloes Epatica</item>
+               <item>66 bales Cowries</item>
+               <item>34 bales Turmerick</item>
+               <item>15 bales Mirrh</item>
+               <item>166 bales Sticklack</item>
+               <item>47 bales seedlack</item>
+               <item>50 bales sena</item>
+               <item>75 bales cotton yarn</item>
+               <item>40 bales Shellack</item>
+               <item>28 bales Spicknard</item>
+               <item>15 bales Camphire</item>
+               <item>38 bales broad Chints</item>
+               <item>19 bales Quilts</item>
+               <item>5 bales brawles</item>
+               <item>15 bales broad baftaes</item>
+               <item>17 bales narrow ditto</item>
+               <item>3 bales Birds Eyes</item>
+               <item>10 bales Dungarees</item>
+               <item>66 bales Derebands</item>
+               <item>15 bales Mercollees</item>
+               <item>2 bales Sallowes</item>
+               <item>14 bales Niccannees</item>
+               <item>18 bales Guinnea stuffs</item>
+               <item>1 bale Pomphanees</item>
+               <item>22 bales broad baftaes blew</item>
+               <item>33 bales Suffaguzzees</item>
+               <item>9 bales Pautkaes white</item>
+               <item>81380 l. Pepper</item>
+            </list>
+            <list>
+               <head>The <hi>Coast Friggat</hi> from Bantam, <hi>July</hi> 1664.</head>
+               <item>346278 l. Pepper</item>
+               <item>608 Jarrs — Green Ginger</item>
+               <item>34 butts — Green Ginger</item>
+               <item>30 puncheons Green Ginger</item>
+               <item>250 bags Saltpeeter</item>
+            </list>
+            <list>
+               <head>The <hi>East-India Merchant from</hi> Bantam, <hi>July</hi> 1664</head>
+               <item>553241 l. Pepper</item>
+               <item>1221 bales Saltpeeter</item>
+               <item>138 bags Cowries</item>
+            </list>
+            <list>
+               <head>The <hi>Madrass Merchant</hi> from <hi>Fort St. George, July</hi> 1664</head>
+               <item>1483 bags Saltpeeter</item>
+               <item>150 bags Turmerick</item>
+               <item>91 bags Gumlack</item>
+               <item>160 bags Sticklack</item>
+               <item>191 bales Long cloth qt. 5874 pcs</item>
+               <item>26 bales brown ditto qt. 650 pcs</item>
+               <item>151 bales Sallampo. qt. 15180 pcs</item>
+               <item>29 bales Morees qt. 5800 pcs</item>
+               <item>35 bales Parcallees qt. 7000 pcs</item>
+               <item>32 bales Bettellees qt. 3880 pcs</item>
+               <item>1 bale broad Diapers qt. 80 pcs</item>
+               <item>3 Bales narrow ditto qt. 480 pcs</item>
+               <item>3 Bales Dimities qt. 300 pcs</item>
+            </list>
+            <list>
+               <head>The <hi>Castle Friggat</hi> from <hi>Fort St. George, July</hi> 1664.</head>
+               <item>450 bales Turmerick</item>
+               <item>16 bales Taffaties qt. 2673 pcs</item>
+               <item>2 chests Taffaties qt. 2673 pcs</item>
+               <item>1656 bales Saltpeeter</item>
+               <item>40 bales corton yarn</item>
+               <item>3 bales Ginghams qt. 300 pcs</item>
+               <item>30 bales Sannoes qt. 3000 pcs</item>
+               <item>26 bales Sticklack</item>
+               <item>129 bales long cloth qt. 3870 pcs</item>
+               <item>2 bales brown ditto qt. 50 pcs</item>
+               <item>66 bales Sallampores 6600 pcs</item>
+               <item>23 bales Bettellees qt. 2980 pcs</item>
+               <item>28 bales Morees qt. 5600 pcs</item>
+               <item>17 bales Percallees qt. 3400</item>
+               <item>1 bale Diapers qt. 160 pcs</item>
+            </list>
+            <list>
+               <head>The <hi>American</hi> from <hi>Fort St. George, July</hi> 1664</head>
+               <item>1509 bags Saltpeeter</item>
+               <item>24 bales Cotton yarn</item>
+               <item>47 bales Sticklack</item>
+               <item>5 cases fine Taffaties qt. 750 pcs</item>
+               <item>4 bal<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ordinary Taffaties qt. 700 pcs</item>
+               <item>2 bales Raw silk</item>
+               <item>72 bags Turmerick</item>
+               <item>19 bales colour'd Ganghams</item>
+               <item>295 bales long cloth qt. 8235 pcs</item>
+               <item>93 bales Sallampores qt. 9300 pcs</item>
+               <item>7 bales Parcallees qt. 1400 pcs</item>
+               <item>6 bales Bettellees qt. 720 pcs</item>
+               <item>10 bales Morees qt. 2000 pcs</item>
+               <item>5 bales broad Diapers qt. 400 pcs</item>
+               <item>3 bales narrow ditto qt. 400 pcs</item>
+               <item>1 bale broad Dimities qt. 100 pcs</item>
+               <item>1 bale narrow ditto qt. 100 pcs</item>
+            </list>
+            <pb facs="tcp:195923:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:195923:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:195923:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:195923:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
